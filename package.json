@@ -1,6 +1,6 @@
 {
   "name": "gulp-strip-module",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Removes module structure from a NodeJS module.",
   "main": "index.js",
   "keywords": [

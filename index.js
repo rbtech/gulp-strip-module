@@ -17,7 +17,7 @@ module.exports = function() {
     result = result.replace(/module.exports = [a-zA-Z]{0,};/i, '');
 
     //environment variable
-    result = result.replace('process.env.NODE_ENV', 'production');
+    result = result.replace('process.env.NODE_ENV', "'production'");
 
     file.contents = new Buffer( 
 

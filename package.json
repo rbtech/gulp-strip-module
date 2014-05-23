@@ -1,0 +1,21 @@
+{
+  "name": "gulp-strip-module",
+  "version": "0.0.1",
+  "description": "Removes module structure from a NodeJS module.",
+  "main": "index.js",
+  "keywords": [
+    "anti",
+    "node",
+    "module",
+    "gulp",
+    "gulpplugin"
+  ],
+  "author": {
+    "name": "Andrew Quan"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "~2.2.5",
+    "event-stream": "~3.0.20"
+  }
+}

@@ -7,7 +7,6 @@ Removes module structure from a NodeJS module.
 
 ```sh
 npm install gulp-strip-module --save-dev
-
 ```
 
 
@@ -28,7 +27,7 @@ gulp.task('default', function(){
 License
 -------
 
-React-Flux is licensed under the MIT license.
+gulp-strip-module is licensed under the MIT license.
 
 > The MIT License (MIT)
 >
